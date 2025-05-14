@@ -1,8 +1,9 @@
 📜 Project Overview
 
 ConvoSphere is a lightweight, terminal-based AI chatbot designed to facilitate natural language conversations without requiring complex server infrastructure or web interfaces. The system leverages Python and the OpenAI API to simulate basic conversational responses, making it ideal for simple, offline interactions.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------✅ Objectives
+✅ Objectives
 
 Develop a functional AI chatbot that operates entirely through the terminal.
 Implement basic NLP techniques to generate contextual responses.
